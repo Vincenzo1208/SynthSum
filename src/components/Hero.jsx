@@ -66,7 +66,7 @@ const Hero = () => {
             {words[activeWord]}
           </span>
           <br className='hidden md:block' />
-          Articles with AI Precision
+          Articles with AI Expertise
         </h1>
         <div className="flex justify-center items-center space-x-4 mb-8 animate-fade-in-up delay-300">
           {words.map((word, index) => (
